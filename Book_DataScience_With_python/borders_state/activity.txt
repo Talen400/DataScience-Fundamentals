@@ -1,0 +1,12 @@
+gdf
+
+tratar coluna HASC_1 para remover 'BR.'
+Fazer um novo GeoDataFrame (nomear 'gdf_estados') contendo somente a coluna HASC_1 e a coluna Geometry
+
+csv => DataFrame do pandas e dá um join() gdf_estados
+
+2 extratos:
+somatoria de todos os anos;
+um ano especifico;
+
+plotar um heatmap de uma unica cor
